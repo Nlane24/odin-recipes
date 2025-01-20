@@ -10,11 +10,41 @@ h1 {
     font-size: 40px;
 }
 
-.author{
+h2.author {
     font-family: Brush Script MT, Arial, sans-serif;
     font-size: 18px;
 }
 
-.recipes-home {
+.recipes-list {
     font-size: 22px;
+    
+}
+
+.name.recipe {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #e85a2e;
+}
+
+.thumbnail {
+    height: auto;
+    width: 750px;
+}
+
+.header {
+    font-size: 32px;
+    background-color: #64b4f5;
+    color: #e85a2e;
+    font-weight: bold;
+}
+
+.text {
+    font-size: 18px;
+}
+
+.ingredients {
+    font-size: 18px;
+}
+
+.step {
+    font-size: 18px;
 }
