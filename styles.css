@@ -2,3 +2,19 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
+#home-title {
+    color: #edd37e;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+.author{
+    font-family: Brush Script MT, Arial, sans-serif;
+    font-size: 18px;
+}
+
+.recipes-home {
+    font-size: 22px;
+}
