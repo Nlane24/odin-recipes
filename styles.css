@@ -27,7 +27,7 @@ h2.author {
 }
 
 .container {
-    height: 100%;
+    margin-bottom: 10px;
 }
 
 .picture.box {
@@ -58,10 +58,6 @@ h2.author {
     font-size: 18px;
 }
 
-ul.ingredients {
-    font-size: 18px;
-}
-
-.step {
+.food, .step {
     font-size: 18px;
 }
