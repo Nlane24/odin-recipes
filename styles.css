@@ -3,7 +3,19 @@ body {
 }
 
 #home-title {
+    text-align: center;
     color: #edd37e;
+}
+
+.container {
+    margin-left: 0 auto;
+    margin-bottom: 10px;
+    padding: 8px;
+}
+
+.box {
+    border-bottom: 1px solid lightslategray;
+    margin-top: 0 auto;
 }
 
 h1 {
@@ -11,8 +23,8 @@ h1 {
 }
 
 h2.author {
-    font-family: Brush Script MT, Arial, sans-serif;
     font-size: 18px;
+    text-align: center;
 }
 
 .recipes-list {
